@@ -1,0 +1,29 @@
+{
+  "Index": {
+    "title": "Hello world!"
+  },
+  "NotFoundPage": {
+    "title": "Somthing wrong 😔",
+    "description": "Try return to main page"
+  },
+  "PageLayout": {
+    "links": {
+      "docs": {
+        "description": "Application for working with Burn Notes.",
+        "href": "https://localhost:3000",
+        "title": "Burn Notes"
+      },
+      "source": {
+        "description": "DevOps Engeneer Alexander Karpov.",
+        "href": "https://t.me/karpulix",
+        "title": "Karpulix"
+      }
+    }
+  },
+  "LocaleLayout": {
+    "title": "next-intl example"
+  },
+  "Manifest": {
+    "name": "ENG MANIFEST NAME"
+  }
+}
